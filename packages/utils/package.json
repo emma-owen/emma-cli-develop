@@ -1,0 +1,19 @@
+{
+  "name": "@emma-cli-develop/utils",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "emma.ou <emma.ou@ucloud.cn>",
+  "homepage": "",
+  "license": "ISC",
+  "main": "lib/utils.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  }
+}

@@ -1,0 +1,11 @@
+node_modules/
+
+packages/**/node_modules/
+packages/**/package-lock.json
+
+package-lock.json
+*.log
+.vscode/
+.idea/
+.DS_Store
+
