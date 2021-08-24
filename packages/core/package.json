@@ -1,10 +1,13 @@
 {
   "name": "@emma-cli-develop/core",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "> TODO: description",
   "author": "emma.ou <emma.ou@ucloud.cn>",
   "homepage": "",
   "license": "ISC",
+  "bin": {
+    "emma-cli-develop": "bin/index.js"
+  },
   "main": "lib/core.js",
   "directories": {
     "lib": "lib",
