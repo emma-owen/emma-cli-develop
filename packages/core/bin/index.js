@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 const utils = require("@emma-cli-develop/utils");
-console.log("utils----------", utils);
+console.log("utils--------", utils);
 const helpers = require("@emma-cli-develop/helpers");
 console.log("helpers--------", helpers);
 const yargs = require("yargs/yargs");
