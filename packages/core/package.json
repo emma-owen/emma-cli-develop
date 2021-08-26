@@ -1,6 +1,6 @@
 {
   "name": "@emma-cli-develop/core",
-  "version": "1.0.7",
+  "version": "1.0.5",
   "description": "> TODO: description",
   "author": "emma.ou <emma.ou@ucloud.cn>",
   "homepage": "",
@@ -24,8 +24,8 @@
   },
   "gitHead": "ef9067b3addd08f6ddebadc2472ecdd7fee6fe13",
   "dependencies": {
-    "@emma-cli-develop/helpers": "^1.0.7",
-    "@emma-cli-develop/utils": "^1.0.7",
+    "@emma-cli-develop/helpers": "^1.0.5",
+    "@emma-cli-develop/utils": "^1.0.5",
     "yargs": "^17.1.1"
   }
 }
