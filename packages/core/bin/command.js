@@ -4,7 +4,7 @@ function displayProp(obj) {
     console.log(`${key}:${obj[key]}`);
   }
 }
-console.log("filename---", __filename);
+console.log("filename-----", __filename);
 class Command {
   constructor(argv) {
     displayProp(this.constructor);
