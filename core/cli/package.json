@@ -24,8 +24,15 @@
   },
   "gitHead": "ef9067b3addd08f6ddebadc2472ecdd7fee6fe13",
   "dependencies": {
-    "@emma-cli-develop/helpers": "^1.0.6",
-    "@emma-cli-develop/utils": "^1.0.6",
-    "yargs": "^17.1.1"
+    "@emma-cli-develop/log": "file:../../utils/log",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "import-local": "^3.0.2",
+    "minimist": "^1.2.5",
+    "npmlog": "^5.0.0",
+    "path-exists": "^4.0.0",
+    "root-check": "^1.0.0",
+    "semver": "^7.3.5",
+    "user-home": "^3.0.0"
   }
 }

@@ -1,7 +1,7 @@
 {
-  "name": "@emma-cli-develop/helpers",
-  "version": "1.0.6",
-  "description": "> TODO: description",
+  "name": "@emma-cli-develop/log",
+  "version": "1.0.7",
+  "description": "@emma-cli-develop log",
   "author": "emma.ou <emma.ou@ucloud.cn>",
   "homepage": "https://github.com/emma-owen/emma-cli-develop#readme",
   "license": "ISC",
@@ -13,6 +13,9 @@
   "files": [
     "lib"
   ],
+  "publishConfig": {
+    "access": "public"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/emma-owen/emma-cli-develop.git"
@@ -22,5 +25,8 @@
   },
   "bugs": {
     "url": "https://github.com/emma-owen/emma-cli-develop/issues"
+  },
+  "dependencies": {
+    "npmlog": "^5.0.0"
   }
 }
