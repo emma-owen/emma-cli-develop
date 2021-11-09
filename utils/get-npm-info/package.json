@@ -1,0 +1,32 @@
+{
+  "name": "@emma-cli-develop/get-npm-info",
+  "version": "1.0.7",
+  "description": "> TODO: description",
+  "author": "emma.ou <emma.ou@ucloud.cn>",
+  "homepage": "https://github.com/emma-owen/emma-cli-develop#readme",
+  "license": "ISC",
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emma-owen/emma-cli-develop.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: run tests from root\" && exit 1"
+  },
+  "bugs": {
+    "url": "https://github.com/emma-owen/emma-cli-develop/issues"
+  },
+  "dependencies": {
+    "@emma-cli-develop/log": "file:../log",
+    "axios": "^0.24.0",
+    "semver": "^7.3.5",
+    "url-join": "^4.0.1"
+  }
+}
